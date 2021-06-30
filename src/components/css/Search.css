@@ -1,0 +1,12 @@
+/* -------------------------------------- */
+/* styling for the search                 */
+/* -------------------------------------- */
+#search {
+  width: 70vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#search input {
+  width: 100%;
+}
